@@ -1,3 +1,4 @@
+#1405/08/21
 for raw in range(6):
     for col in range(7):
         if ((raw == 0 and col % 3 != 0) or
