@@ -1,3 +1,4 @@
+#1405/08/21 (Written by AI)
 def draw_shape(choice):
     """بر اساس عدد ورودی، یکی از ۵ شکل را با for و if چاپ می‌کند."""
     if choice == 1:
